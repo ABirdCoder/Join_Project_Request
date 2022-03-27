@@ -1,0 +1,11 @@
+{
+  "username": "TalinTheDev",
+  "projects": ["TalinTheDev", "Technic", "Private Projects"],
+  "about": {
+    "links": ["TalinTheDev is my personal website and is being worked on. In early stage dev", "Technic is my technology blog and is still in early stage dev."],
+    "roles": ["Backend Developer (C#, Node)", "Frontend Devloper (No design, only design -> code)", "C# Dev", "Writer"],
+    "values": "I work well with others and work hard to finish my work in time. I want to make mutter a better and safer place for people to chat.",
+    "!!!SPECIAL NOTE!!!": "I am a student so I may have some trouble to complete all assigments within the due date if I get too many assignements at once. 1 assignment per week is perfect but I will try to be as flexible as possible."
+  }
+  "timezone": "GMT -05:00"
+}
