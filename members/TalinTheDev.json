@@ -8,4 +8,15 @@
     "!!!SPECIAL NOTE!!!": "I am a student so I may have some trouble to complete all assigments within the due date if I get too many assignements at once. 1 assignment per week is perfect but I will try to be as flexible as possible."
   }
   "timezone": "GMT -05:00"
+},
+{
+  "username": "GashonHussein",
+  "projects": ["ghussein.org", "Drowsiness Classification w/ Convolutional Neural Nets", "A few mobile apps"],
+  "about": {
+    "links": ["ghussein.org is my personal website.", "I've also made dev.ghussein.org && blog.ghussein.org!"],
+    "roles": ["FullStack!", "Machine Learning (In-Training)"],
+    "values": "I enjoy building stuff!",
+    "!!!SPECIAL NOTE!!!": "I am a student too (at Stanford). I stumbled on your GitHub and some of your projects are amazing for someone your age. If you want to work on a project together or if your looking for mentorship lmk! "
+  }
+  "timezone": "GMT -05:00"
 }
